@@ -1,3 +1,5 @@
+[![Python Tests](https://github.com/yuezhengyang2/ai-issue-repairer/actions/workflows/tests.yml/badge.svg)](https://github.com/yuezhengyang2/ai-issue-repairer/actions/workflows/tests.yml)
+
 # Issue Repair Agent
 
 面向小型 Python 仓库的代码修复 Agent，使用 OpenAI Responses API 的 function calling。
